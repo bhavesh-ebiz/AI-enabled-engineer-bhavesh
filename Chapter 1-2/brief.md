@@ -11,4 +11,4 @@ This is the feature that we can implement in Google Chrome that will help us to 
 
 ## Top Risks:
 - User may phase the issue if the tab moves to the group and user is not aware of it.
-- We may lost the tab itself that is not inactive at the moment.
+- We may lost the tab itself that is inactive at the moment.
